@@ -23,6 +23,6 @@ exports.getNutritionValues = function(req,res) {
     //     // app.tell(error);
     // });
 
-    res.send('hello')
+    console.log('hello')
 
 };
